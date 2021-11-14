@@ -1,0 +1,7 @@
+name: FancyPass
+version: '${version}'
+main: com.daxton.fancypass.FancyPass
+api-version: 1.16
+prefix: FancyPass
+softdepend: [ FancyCore ]
+authors: [ s99889989 ]
